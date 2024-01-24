@@ -1,0 +1,76 @@
+#fb{
+    border: 1px solid black;
+    float: right;
+    width: 400px;
+    height: 379px;
+    text-align: center;
+    margin-top: 120px;
+    margin-right: 200px;
+    background-color: white;
+}
+#button{
+    background-color: #1877f2;
+    width: 380px;
+    color: white;
+    height: 50px;
+    border-radius:10px ;
+    text-align: center;
+    font-size:large;
+    font-family: inherit;
+}
+#forgot{
+    font-size: medium;
+    color:#1877f2;
+
+}
+#button1{
+    background-color:#42b72a;
+    width: 50%;
+    color: white;
+    height: 50px;
+    border-radius:10px ;
+    text-align: center;
+    font-size: 17px;
+  line-height: 48px;
+  padding: 0 16px
+}
+#hr{
+    color: #f5ebeb;
+    width: 350px;
+}
+#nav{
+    padding-top: 5%;
+    font-size: larger;
+    padding-left: 5%;
+    margin-left:10% ;
+    font-family: cursive;
+    color:#1877f2;
+}
+#email{
+    width: 380px;
+    height: 50px;
+    border-radius:10px ;
+}
+#password{
+    width: 380px;
+    height: 50px;
+    border-radius:10px ;
+}
+#color{
+    background-color: #f0f2f5;
+    height:1000px;
+}
+#p{
+    color: black;
+}
+#p1{
+    color: black;
+    float: none;
+    margin-top: 25px;
+    margin-right: 180px;
+    margin-left: 10px;
+    text-align: end;
+}
+#b1{
+flex-direction: column-reverse;
+}
